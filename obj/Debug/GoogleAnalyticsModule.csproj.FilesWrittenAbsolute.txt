@@ -1,0 +1,4 @@
+/Users/jason-harrell/OneDrive/GoogleAnalyticsModule/bin/Debug/GoogleAnalyticsModule.dll.mdb
+/Users/jason-harrell/OneDrive/GoogleAnalyticsModule/bin/Debug/GoogleAnalyticsModule.dll
+/Users/jason-harrell/OneDrive/GoogleAnalyticsModule/obj/Debug/GoogleAnalyticsModule.dll
+/Users/jason-harrell/OneDrive/GoogleAnalyticsModule/obj/Debug/GoogleAnalyticsModule.dll.mdb

@@ -1,0 +1,15 @@
+D:\Sandbox\gahelper_dotnet\bin\Debug\GoogleAnalyticsModule.dll
+D:\Sandbox\gahelper_dotnet\bin\Debug\GoogleAnalyticsModule.pdb
+D:\Sandbox\gahelper_dotnet\obj\Debug\GoogleAnalyticsModule.dll
+D:\Sandbox\gahelper_dotnet\obj\Debug\GoogleAnalyticsModule.pdb
+D:\Sandbox\gahelper_dotnet\obj\Debug\GoogleAnalyticsModule.csprojResolveAssemblyReference.cache
+D:\Sandbox\GoogleAnalyticsModule\bin\Debug\GoogleAnalyticsModule.dll
+D:\Sandbox\GoogleAnalyticsModule\bin\Debug\GoogleAnalyticsModule.pdb
+D:\Sandbox\GoogleAnalyticsModule\obj\Debug\GoogleAnalyticsModule.csprojResolveAssemblyReference.cache
+D:\Sandbox\GoogleAnalyticsModule\obj\Debug\GoogleAnalyticsModule.dll
+D:\Sandbox\GoogleAnalyticsModule\obj\Debug\GoogleAnalyticsModule.pdb
+Y:\Sandbox\GoogleAnalyticsModule\bin\Debug\GoogleAnalyticsModule.dll
+Y:\Sandbox\GoogleAnalyticsModule\bin\Debug\GoogleAnalyticsModule.pdb
+Y:\Sandbox\GoogleAnalyticsModule\obj\Debug\GoogleAnalyticsModule.csprojResolveAssemblyReference.cache
+Y:\Sandbox\GoogleAnalyticsModule\obj\Debug\GoogleAnalyticsModule.dll
+Y:\Sandbox\GoogleAnalyticsModule\obj\Debug\GoogleAnalyticsModule.pdb

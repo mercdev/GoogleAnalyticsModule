@@ -1,0 +1,9 @@
+﻿<Properties StartupItem="GoogleAnalyticsModule.csproj">
+  <AuthorInfo Name="Jason Harrell" Email="jason.harrell@outlook.com" Copyright="©Copyright Jason Harrell 2012-2015" Company="DevAlchemy, LLC" Trademark="" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

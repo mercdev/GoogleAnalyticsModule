@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleAnalyticsModule", "GoogleAnalyticsModule.csproj", "{C996049B-52DB-45A0-8C47-36E5EAC351D3}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSite1(1)", "http://localhost:64476", "{35E0F37F-FA64-4368-8DA8-77B748BCB395}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{c996049b-52db-45a0-8c47-36e5eac351d3}|GoogleAnalyticsModule.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64476"
+		Debug.AspNetCompiler.PhysicalPath = "C:\Users\jharrell\Documents\Visual Studio 2013\WebSites\WebSite1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64476\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64476"
+		Release.AspNetCompiler.PhysicalPath = "C:\Users\jharrell\Documents\Visual Studio 2013\WebSites\WebSite1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64476\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "C:\Users\jharrell\Documents\Visual Studio 2013\WebSites\WebSite1\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|AnyCPU = Debug|AnyCPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|Any CPU = Release|Any CPU
+		Release|AnyCPU = Release|AnyCPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C996049B-52DB-45A0-8C47-36E5EAC351D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C996049B-52DB-45A0-8C47-36E5EAC351D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C996049B-52DB-45A0-8C47-36E5EAC351D3}.Debug|AnyCPU.ActiveCfg = Debug|Any CPU
+		{C996049B-52DB-45A0-8C47-36E5EAC351D3}.Debug|AnyCPU.Build.0 = Debug|Any CPU
+		{C996049B-52DB-45A0-8C47-36E5EAC351D3}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{C996049B-52DB-45A0-8C47-36E5EAC351D3}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{C996049B-52DB-45A0-8C47-36E5EAC351D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C996049B-52DB-45A0-8C47-36E5EAC351D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C996049B-52DB-45A0-8C47-36E5EAC351D3}.Release|AnyCPU.ActiveCfg = Release|Any CPU
+		{C996049B-52DB-45A0-8C47-36E5EAC351D3}.Release|AnyCPU.Build.0 = Release|Any CPU
+		{C996049B-52DB-45A0-8C47-36E5EAC351D3}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{C996049B-52DB-45A0-8C47-36E5EAC351D3}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{35E0F37F-FA64-4368-8DA8-77B748BCB395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E0F37F-FA64-4368-8DA8-77B748BCB395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E0F37F-FA64-4368-8DA8-77B748BCB395}.Debug|AnyCPU.ActiveCfg = Debug|Any CPU
+		{35E0F37F-FA64-4368-8DA8-77B748BCB395}.Debug|AnyCPU.Build.0 = Debug|Any CPU
+		{35E0F37F-FA64-4368-8DA8-77B748BCB395}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{35E0F37F-FA64-4368-8DA8-77B748BCB395}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{35E0F37F-FA64-4368-8DA8-77B748BCB395}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E0F37F-FA64-4368-8DA8-77B748BCB395}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{35E0F37F-FA64-4368-8DA8-77B748BCB395}.Release|AnyCPU.ActiveCfg = Debug|Any CPU
+		{35E0F37F-FA64-4368-8DA8-77B748BCB395}.Release|AnyCPU.Build.0 = Debug|Any CPU
+		{35E0F37F-FA64-4368-8DA8-77B748BCB395}.Release|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{35E0F37F-FA64-4368-8DA8-77B748BCB395}.Release|Mixed Platforms.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
